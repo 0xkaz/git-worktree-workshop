@@ -91,6 +91,7 @@ git worktree prune
 - [Git Worktree とは何か？](./WHAT_IS_GIT_WORKTREE.md) - Git worktree の基本概念
 - [Cursor での Worktree 管理](./CURSOR_WORKTREE_MANAGEMENT.md) - Cursor エディタでの効率的な管理方法
 - [実験ガイド](./EXPERIMENT_GUIDE.md) - 実践的な実験手順
+- [Worktree と gitignore](./WORKTREE_GITIGNORE_GUIDE.md) - worktree ディレクトリの gitignore 設定について
 
 ## 参考資料
 
